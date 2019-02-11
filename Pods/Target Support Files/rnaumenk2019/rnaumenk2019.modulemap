@@ -1,0 +1,6 @@
+framework module rnaumenk2019 {
+  umbrella header "rnaumenk2019-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,21 @@
+PODS:
+  - rnaumenk2019 (0.1.0)
+
+DEPENDENCIES:
+  - rnaumenk2019 (from `https://github.com/rnaumenk/MyPod.git`)
+
+EXTERNAL SOURCES:
+  rnaumenk2019:
+    :git: https://github.com/rnaumenk/MyPod.git
+
+CHECKOUT OPTIONS:
+  rnaumenk2019:
+    :commit: 43ed4f11a0f9718028c177d75f082bac20a42b48
+    :git: https://github.com/rnaumenk/MyPod.git
+
+SPEC CHECKSUMS:
+  rnaumenk2019: 03e9388799795acc1941440bccdc8892e5aaade9
+
+PODFILE CHECKSUM: 50f79d39d6e21ac8bd40641b0bfbda8d7687ca97
+
+COCOAPODS: 1.5.3

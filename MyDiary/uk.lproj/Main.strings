@@ -1,0 +1,42 @@
+/* Class = "UIBarButtonItem"; title = "All lang"; ObjectID = "0he-qG-yq8"; */
+"0he-qG-yq8.title" = "Всі мови";
+
+/* Class = "UIButton"; normalTitle = "Choose picture"; ObjectID = "G95-8E-DpQ"; */
+"G95-8E-DpQ.normalTitle" = "Вибрати картинку";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "HGK-F0-umm"; */
+"HGK-F0-umm.placeholder" = "Назва";
+
+/* Class = "UITextField"; text = "Title"; ObjectID = "HGK-F0-umm"; */
+"HGK-F0-umm.text" = "Назва";
+
+/* Class = "UILabel"; text = "Identify yourself"; ObjectID = "J7p-5Z-aAa"; */
+"J7p-5Z-aAa.text" = "Ідентифікуйтесь";
+
+/* Class = "UILabel"; text = "Content"; ObjectID = "KWL-sX-lag"; */
+"KWL-sX-lag.text" = "Вміст";
+
+/* Class = "UIButton"; normalTitle = "Take picture"; ObjectID = "Me9-kL-H1P"; */
+"Me9-kL-H1P.normalTitle" = "Створити фото";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "N3i-K0-FJe"; */
+"N3i-K0-FJe.text" = "Ім'я";
+
+/* Class = "UINavigationItem"; title = "Article"; ObjectID = "UAV-GS-1ht"; */
+"UAV-GS-1ht.title" = "Стаття";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "WTZ-2V-tjv"; */
+"WTZ-2V-tjv.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Creation"; ObjectID = "ibB-0N-BEL"; */
+"ibB-0N-BEL.text" = "Створено";
+
+/* Class = "UINavigationItem"; title = "Diary"; ObjectID = "ijO-5j-vFi"; */
+"ijO-5j-vFi.title" = "Щоденник";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "t1W-jz-gQ5"; */
+"t1W-jz-gQ5.title" = "Зберегти";
+
+/* Class = "UILabel"; text = "Modification"; ObjectID = "uds-N3-5zA"; */
+"uds-N3-5zA.text" = "Модифіковано";
+

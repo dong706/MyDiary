@@ -1,0 +1,25 @@
+{
+  "name": "rnaumenk2019",
+  "version": "0.1.0",
+  "summary": "First pod of rnaumenk2019.",
+  "swift_version": "4.0.3",
+  "description": "My first pod. The description is longer than the summary.",
+  "homepage": "https://github.com/rnaumenk/MyPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rnaumenk": "r.naumenk@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/rnaumenk/rnaumenk2019.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "rnaumenk2019/Classes/**/*",
+  "resources": "rnaumenk2019/Assets/*.xcdatamodeld",
+  "frameworks": "CoreData"
+}
